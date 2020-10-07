@@ -1,4 +1,5 @@
-package main
+//Stephen Dodd
+::package main
 
 import (
 	"context"
