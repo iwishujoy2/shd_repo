@@ -1,5 +1,5 @@
 //Stephen Dodd
-::package main
+package main
 
 import (
 	"context"
